@@ -1,0 +1,11 @@
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/bin/Debug/netcoreapp2.2/ProgramForTestingOne.deps.json
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/bin/Debug/netcoreapp2.2/ProgramForTestingOne.runtimeconfig.json
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/bin/Debug/netcoreapp2.2/ProgramForTestingOne.runtimeconfig.dev.json
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/bin/Debug/netcoreapp2.2/ProgramForTestingOne.dll
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/bin/Debug/netcoreapp2.2/ProgramForTestingOne.pdb
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/Debug/netcoreapp2.2/ProgramForTestingOne.csprojAssemblyReference.cache
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/Debug/netcoreapp2.2/ProgramForTestingOne.csproj.CoreCompileInputs.cache
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/Debug/netcoreapp2.2/ProgramForTestingOne.AssemblyInfoInputs.cache
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/Debug/netcoreapp2.2/ProgramForTestingOne.AssemblyInfo.cs
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/Debug/netcoreapp2.2/ProgramForTestingOne.dll
+/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/Debug/netcoreapp2.2/ProgramForTestingOne.pdb
