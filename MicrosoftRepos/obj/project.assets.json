@@ -3343,11 +3343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/ProgramForTestingOne.csproj",
-      "projectName": "ProgramForTestingOne",
-      "projectPath": "/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/ProgramForTestingOne.csproj",
+      "projectUniqueName": "/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/MicrosoftRepos/MicrosoftForTestingOne.csproj",
+      "projectName": "MicrosoftForTestingOne",
+      "projectPath": "/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/MicrosoftRepos/MicrosoftForTestingOne.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/ProgramForTestingOne/obj/",
+      "outputPath": "/Volumes/MacHDD/Documents/Programming/C# Programming/LearnProject/MicrosoftRepos/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
